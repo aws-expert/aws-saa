@@ -1,0 +1,2 @@
+# aws-saa
+The industry-recognized AWS Certified Solutions Architect - Associate (SAA) showcases knowledge and skills in AWS technologies across a wide range of AWS services. The focus of this certification is on designing cost- and performance-optimized solutions, demonstrating a strong understanding of the AWS Well-Architected Framework. This certification enhances the career profile and earnings of certified professionals, as well as increasing credibility and trust in interactions with stakeholders and customers.
